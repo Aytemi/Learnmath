@@ -2,4 +2,4 @@ services:
 - type:web
 name: mathcool40
 env: docker
-plan:free
+plan: free
