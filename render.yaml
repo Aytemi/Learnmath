@@ -1,5 +1,5 @@
 services:
 - type:web
-name:mathcool40
+name: mathcool40
 env:docker
 plan:free
